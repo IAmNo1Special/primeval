@@ -1,0 +1,131 @@
+{
+ "sprites": {
+  "survivor": {
+   "file": "assets/survivor.png",
+   "w": 494,
+   "h": 512
+  },
+  "trike": {
+   "file": "assets/trike.png",
+   "w": 352,
+   "h": 512
+  },
+  "raptor": {
+   "file": "assets/raptor.png",
+   "w": 215,
+   "h": 512
+  },
+  "dodo": {
+   "file": "assets/dodo.png",
+   "w": 258,
+   "h": 512
+  },
+  "rex": {
+   "file": "assets/rex.png",
+   "w": 235,
+   "h": 512
+  },
+  "alpha_rex": {
+   "file": "assets/alpha_rex.png",
+   "w": 366,
+   "h": 512
+  },
+  "tree": {
+   "file": "assets/tree.png",
+   "w": 512,
+   "h": 502
+  },
+  "bush": {
+   "file": "assets/bush.png",
+   "w": 512,
+   "h": 493
+  },
+  "rock": {
+   "file": "assets/rock.png",
+   "w": 504,
+   "h": 512
+  },
+  "campfire": {
+   "file": "assets/campfire.png",
+   "w": 512,
+   "h": 510
+  },
+  "storage": {
+   "file": "assets/storage.png",
+   "w": 492,
+   "h": 512
+  },
+  "cache": {
+   "file": "assets/cache.png",
+   "w": 512,
+   "h": 385
+  },
+  "thatch_foundation": {
+   "file": "assets/thatch_foundation.png",
+   "w": 512,
+   "h": 508
+  },
+  "thatch_wall": {
+   "file": "assets/thatch_wall.png",
+   "w": 512,
+   "h": 113
+  },
+  "wood_foundation": {
+   "file": "assets/wood_foundation.png",
+   "w": 499,
+   "h": 512
+  },
+  "wood_wall": {
+   "file": "assets/wood_wall.png",
+   "w": 512,
+   "h": 141
+  },
+  "grass_tuft": {
+   "file": "assets/grass_tuft.png",
+   "w": 512,
+   "h": 448
+  },
+  "leaf_litter": {
+   "file": "assets/leaf_litter.png",
+   "w": 512,
+   "h": 502
+  },
+  "door_open": {
+   "file": "assets/door_open.png",
+   "w": 512,
+   "h": 167
+  },
+  "door_closed": {
+   "file": "assets/door_closed.png",
+   "w": 512,
+   "h": 118
+  }
+ },
+ "tiles": {
+  "jungle": {
+   "file": "assets/tiles/jungle.png",
+   "w": 512,
+   "h": 512
+  },
+  "beach": {
+   "file": "assets/tiles/beach.png",
+   "w": 512,
+   "h": 512
+  },
+  "rock": {
+   "file": "assets/tiles/rock.png",
+   "w": 512,
+   "h": 512
+  },
+  "water": {
+   "file": "assets/tiles/water.png",
+   "w": 512,
+   "h": 512
+  }
+ },
+ "title": {
+  "file": "assets/title.png",
+  "w": 1280,
+  "h": 720
+ }
+}
